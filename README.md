@@ -16,6 +16,12 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+```
+jupyter notebook \
+    --notebook-dir="." \
+    --ip=0.0.0.0 --port=3225
+```
+
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
