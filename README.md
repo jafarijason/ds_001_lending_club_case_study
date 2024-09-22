@@ -7,7 +7,7 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+
 
 ## How to run project
 ```
@@ -64,4 +64,4 @@ Based on the analysis, the following recommendations can help Lending Club reduc
 
 ## Contact
 Created by [@jafarijason](https://github.com/jafarijason) - feel free to reach out for collaboration or further inquiries.
-
+Connect with me on [LinkedIn](https://www.linkedin.com/in/jasonjafari/).
